@@ -1,0 +1,2 @@
+Vol [dateA=2023-01-15, dateD=2023-01-11, aeroportA=casablanca, aeroportD=rabat, nbrEscales=1]
+Vol [dateA=2023-01-11, dateD=2023-01-11, aeroportA=casablanca, aeroportD=rabat, nbrEscales=1]
